@@ -1,0 +1,11 @@
+# Webmaster stuff
+verification:
+  google: 
+  bing: 
+  alexa: 
+  yandex: 
+  baidu: 
+  facebook: 
+  pinterest: <meta name="p:domain_verify" content="26bcceeb855d9d1cb7c41b6be602f58c"/>
+analytics: 
+  google: "UA-171033127-1"

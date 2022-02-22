@@ -1,0 +1,36 @@
+# Navigation Menu
+header:
+  - title: Network
+    position: left
+    links:
+    - title: Studio
+      link: https://yaka.studio
+    - title: Play
+      link: https://play.yaka.games
+      icon: 
+  - title: Home Menu
+    position: right
+    links:
+    - title: News
+      link: "/news/"
+    - title: Games
+      link: "/games/"
+    - title: About
+      link: "/about/"
+    - title: Contact
+      link: "/contact/"
+footer:
+  - title: Legal Information
+    links:
+    - title: Terms of Service
+      link: "/terms/"
+    - title: Privacy & Cookie Policy
+      link: "/privacy/"
+    - title: Account Policy
+      link: /account/
+  - title: Our Company
+    links:
+    - title: About Us
+      link: "/about/"
+    - title: About Our Games
+      link: "/games/"
