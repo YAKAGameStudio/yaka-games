@@ -15,7 +15,7 @@ title: YAKA Games
 description: We are a crypto indie publisher with IA empowered games and augmented reality experiences.
 timezone: UTC
 url: "https://yaka.cloud"
-permalink: /news/:categories/:year/:month/:day/:title
+permalink: /news/:categories/:title
 tagline: Beyond Game & Realities
 logo: "/assets/logo.png"
 favicon: "assets/icons/favicon.ico"
