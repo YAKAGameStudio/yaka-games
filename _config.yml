@@ -14,7 +14,7 @@ remote_theme: MrKoubyak/Symphony
 title: YAKA Games
 description: We are a crypto indie publisher with IA empowered games and augmented reality experiences.
 timezone: Europe/Paris
-url: "https://static.yaka.games"
+url: "https://yaka.games"
 permalink: "/news/:categories/:title"
 tagline: Beyond Game & Realities
 logo: "/assets/logo.png"
