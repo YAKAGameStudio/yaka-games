@@ -46,9 +46,9 @@ In case of refund, payment processor’s standard terms and conditions regarding
 ### Special refund regulation for Google Play
 If the purchase isn’t what you expected, doesn’t work, or you don’t want it any more, you can:
 - Request a refund on the Google Play website. If it’s less than 48 hours since you bought an app or made an in-app purchase, you can request a refund through Google Play, or
-- Get support from YAKA.
+- Get support from {{site.name}}.
 
-You should contact YAKA if:
+You should contact {{site.name}} if:
 - You have a question about the Games.
 - You made an in-game purchase but it wasn’t delivered or isn’t working as you expected.
 

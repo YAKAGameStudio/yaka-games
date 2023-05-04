@@ -5,9 +5,6 @@ header:
     links:
     - title: Studio
       link: https://yaka.studio
-    - title: Play
-      link: https://play.yaka.games
-      icon: 
   - title: Home Menu
     position: right
     links:
@@ -32,5 +29,5 @@ footer:
     links:
     - title: About Us
       link: "/about/"
-    - title: About Our Games
+    - title: Our Games
       link: "/games/"
